@@ -8,8 +8,10 @@
 - 💬 Ask me about Android Development, Kotlin, Java
 - 😄 Pronouns: he/him/his
 
-| ![Ananjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanjayGurjar&show_icons=true&theme=city_lights) | ![Ananjay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanjayGurjar&theme=city-lights) |
-| :---: | :---: |
+| ![Ananjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanjayGurjar&show_icons=true&theme=city_lights) | ![Ananjay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanjayGurjar&theme=city-lights) | ![Ananjay's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanjayGurjar&theme=city_lights) |
+| :---: | :---: | :---: |
+
+
 
 <h2>🤝 Let's connect!</h2>
 <a href="https://www.linkedin.com/in/ananjay-gurjar-86ab061b2/" target="_blank"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="source: imgur.com" /></a> &nbsp;  <a href="https://twitter.com/AnanjayGurjar" target="_blank"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="source: imgur.com"/>
