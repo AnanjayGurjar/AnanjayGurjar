@@ -1,10 +1,10 @@
 <h3> Hello, I'm Ananjay Gurjar</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <img align='right' src="https://media.giphy.com/media/NytMLKyiaIh6VH9SPm/giphy.gif" width="300" height="250"></h3>
 
-#### I love to make android app's and looking forward to callobrate in same. I am also passionate about Backend development. I am second year student at Ramaiah Institute of Technology
+#### I love to make android app's and looking forward to callobrate in same. I am also passionate about Backend development. I am third year student at Ramaiah Institute of Technology
 
 - 🔭 I’m currently working on Android Development
 - 🌱 I’m currently learning Jetpack Compose
-- 👯 I’m looking to collaborate on Android Dev and Backend Dev
+- 👯 I’m looking to collaborate on Android Dev, Blockchain Dev and Backend Dev
 - 💬 Ask me about Android Development, Kotlin, Java
 - 😄 Pronouns: he/him/his
 
