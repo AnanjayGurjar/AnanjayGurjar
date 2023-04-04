@@ -3,7 +3,7 @@
 #### I love to make android app's and looking forward to callobrate in same. I am also passionate about Backend development. I am third year student at Ramaiah Institute of Technology
 
 - 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning DSA, Computer Networks
 - 👯 I’m looking to collaborate on Android Dev, Backend Dev
 - 💬 Ask me about Java, Javascript, Kotlin
 - 😄 Pronouns: he/him/his
