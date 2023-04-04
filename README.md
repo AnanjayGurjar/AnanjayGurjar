@@ -2,10 +2,10 @@
 
 #### I love to make android app's and looking forward to callobrate in same. I am also passionate about Backend development. I am third year student at Ramaiah Institute of Technology
 
-- 🔭 I’m currently working on Android Development
+- 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Jetpack Compose
-- 👯 I’m looking to collaborate on Android Dev, Blockchain Dev and Backend Dev
-- 💬 Ask me about Android Development, Kotlin, Java
+- 👯 I’m looking to collaborate on Android Dev, Backend Dev
+- 💬 Ask me about Java, Javascript, Kotlin
 - 😄 Pronouns: he/him/his
 
 | ![Ananjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanjayGurjar&show_icons=true&theme=city_lights) | ![Ananjay's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnanjayGurjar&theme=city-lights) | ![Ananjay's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanjayGurjar&theme=city_lights) |
